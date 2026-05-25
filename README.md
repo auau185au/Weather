@@ -44,6 +44,7 @@ npm run dev
 ```
  
  # 项目结构
+```
 weather-dashboard/
 ├── src/
 │   ├── components/
@@ -58,4 +59,5 @@ weather-dashboard/
 ├── index.html
 ├── package.json
 ├── vite.config.ts              # Vite 代理配置（解决 CORS）
-└── .env                        # 环境变量（需自行创建）
+└── .env
+```                      # 环境变量（需自行创建）
